@@ -1,0 +1,34 @@
+/s
+Lie
+ruth
+/t
+거짓말
+루스
+/e
+
+/s
+Lie
+/t
+거짓말
+/e
+
+/s
+ruth
+/t
+루스
+/e
+
+/s
+Po e
+Never mind
+/t
+포
+신경 쓰지 마세요
+/e
+
+/s
+Ye. Right, T7111 give vou this. I don't eat much, wou see.
+/t
+네. 맞아요, T7111은 이걸 보여줘요. 저는 별로 안 먹어요.
+/e
+

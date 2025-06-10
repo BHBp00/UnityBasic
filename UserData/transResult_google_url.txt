@@ -1,0 +1,1830 @@
+/s
+But one dark night,
+one of these kind vampi res
+attacked a human in town.
+/t
+하지만 어두운 밤,
+ 이런 종류의 Vampi Res
+ 마을에서 인간을 공격했습니다. 
+/e
+
+/s
+The vampi re was executed,
+and the townspeople
+II  ived happi ly ever after.
+/t
+뱀파이어가 처형되었고
+ 그리고 마을 사람들
+ II는 그 이후로 행복했습니다. 
+/e
+
+/s
+...Are vampi res real
+/t
+... Vampi Res는 실제입니다 
+/e
+
+/s
+...Are vampi res real?
+Are they bad guys?
+/t
+... Vampi Res는 진짜입니까?
+ 그들은 나쁜 사람입니까? 
+/e
+
+/s
+Vamp i res. ..
+did exis
+/t
+뱀파이어 I res.  ..
+ Exis 
+/e
+
+/s
+did exist.
+Vampi res.
+But not anymore.
+/t
+존재했습니다.
+ Vampi Res.
+ 그러나 더 이상은 아닙니다. 
+/e
+
+/s
+In fact, II  even doubt this vampi rt
+/t
+사실, 나는이 뱀파이어를 의심합니다 
+/e
+
+/s
+In fact, II  even doubt this vampi rt
+attacked their victim wi II ingly.
+/t
+사실, 나는이 뱀파이어를 의심합니다
+ 그들의 피해자 wi ii ingly를 공격했습니다. 
+/e
+
+/s
+In fact, II  even
+attacked their
+/t
+사실, 심지어도
+ 그들의 공격 
+/e
+
+/s
+In fact, II  even dl
+attacked their v
+/t
+사실, II도 DL입니다
+ 그들의 v를 공격했다 
+/e
+
+/s
+In fact, II  even d
+attacked their v
+/t
+사실, II도 d
+ 그들의 v를 공격했다 
+/e
+
+/s
+In fact, II  ev
+attacked the
+/t
+사실, II EV
+ 공격했다 
+/e
+
+/s
+Be careful, it's very dark
+/t
+조심하세요. 매우 어둡습니다 
+/e
+
+/s
+21 CHAPF
+/t
+21 Chapf 
+/e
+
+/s
+Snap Shot
+/t
+스냅 샷 
+/e
+
+/s
+M. O.R.T
+[81
+/t
+M. O.R.T
+ [81 
+/e
+
+/s
+M. O.R.T
+/t
+M. O.R.T 
+/e
+
+/s
+OCR Area
+/t
+OCR 지역 
+/e
+
+/s
+Translate
+/t
+번역하다 
+/e
+
+/s
+OCR Area
+goi
+/t
+OCR 지역
+ 고이 
+/e
+
+/s
+008
+/t
+008 
+/e
+
+/s
+MORT SnapShot -r
+/t
+MORT SNAPSHOT -R 
+/e
+
+/s
+M. O.R.T
+[8]
+/t
+M. O.R.T
+ [8] 
+/e
+
+/s
+MORT Snapshot
+/t
+MORT SNAPSHOT 
+/e
+
+/s
+21
+/t
+21 
+/e
+
+/s
+-%itß
+/t
+-%itß 
+/e
+
+/s
+OCRArea Y-ELICI
+/t
+Ocrarea y-elici 
+/e
+
+/s
+...It's getting late.
+You should get to bed.
+/t
+... 늦어지고 있습니다.
+ 잠자리에 들어야합니다. 
+/e
+
+/s
+Why can't we all sleep together?
+/t
+왜 우리 모두가 함께 잠을 잘 수 없습니까? 
+/e
+
+/s
+If you do, the wolf will come.
+'ock the door and fa
+/t
+당신이 그렇게한다면, 늑대가 올 것입니다.
+ '문과 fa 
+/e
+
+/s
+If you do, the wolf will come.
+lock the door and fall asleep quicl
+/t
+당신이 그렇게한다면, 늑대가 올 것입니다.
+ 문을 잠그고 잠들어 Quicl 
+/e
+
+/s
+If Y
+/t
+y라면 
+/e
+
+/s
+If you stay up too late,
+won't be able to get to sleep at
+/t
+너무 늦게 머무르면
+ 잠을 잘 수 없습니다 
+/e
+
+/s
+Okay.
+Good night, father.
+/t
+좋아요.
+ 안녕히 주무세요, 아버지. 
+/e
+
+/s
+how much more do we have to walk?'
+/t
+우리는 얼마나 더 걸어야합니까? ' 
+/e
+
+/s
+3apa! Are you II  istening?
+/t
+3APA!  당신은 II가되고 있습니까? 
+/e
+
+/s
+apa! Are you listening?
+/t
+아파!  당신은 듣고 있습니까? 
+/e
+
+/s
+iapa! Are you listening?
+/t
+IAPA!  당신은 듣고 있습니까? 
+/e
+
+/s
+apa! Are you II  isteninz?
+/t
+아파!  당신은 IISTENINZ입니까? 
+/e
+
+/s
+apa! Are you II  istening?
+/t
+아파!  당신은 II가되고 있습니까? 
+/e
+
+/s
+"Hey, apa! Are you listening?
+You a e, right?!"
+/t
+"이봐, APA! 듣고 있니?
+ 당신은 E, 맞습니까? " 
+/e
+
+/s
+iapa! Are you II  istening?
+/t
+IAPA!  당신은 II가되고 있습니까? 
+/e
+
+/s
+"Hey, papa! Are you listening?
+You are, right?!"
+/t
+"이봐, 아빠! 당신은 듣고 있습니까?
+ 당신은 맞습니까?! " 
+/e
+
+/s
+Shaddup, runt.
+We' re almost there,
+just be quiet and walk."
+/t
+Shaddup, Runt.
+ 우리는 거의 거기에 있습니다.
+ 조용히 걸어 가십시오. " 
+/e
+
+/s
+"I'm not "runt"!
+/t
+"나는"runt "가 아닙니다! 
+/e
+
+/s
+"I'm not "runt"
+/t
+"나는"runt "가 아닙니다. 
+/e
+
+/s
+"I'm
+I'
+not "runt"!
+/t
+"나는
+ 나'
+ "runt"가 아닙니다! 
+/e
+
+/s
+"I'm not "runt"!
+__iöt*
+/t
+"나는"runt "가 아닙니다!
+ __iöt* 
+/e
+
+/s
+"And stop cal II  in: me that.
+...It
+/t
+"그리고 Cal II를 중지하십시오 : 나.
+ ...그것 
+/e
+
+/s
+"And stop cal II  ing me that.
+...It's zett ins on my nerves.
+/t
+"그리고 저를 멈추십시오.
+ ... 내 신경에 zett ins입니다. 
+/e
+
+/s
+"Aw, you' re mean, papa!
+Come on, you' re aaaaalways
+cal II  in: yours
+/t
+"아, 아빠!
+ 어서, 당신은 'aaaaalways
+ Cal II In : 당신의 
+/e
+
+/s
+"Aw, you
+Come on,
+cal II  in:
+re mean, papa!
+you' re aaaaalways
+yourself different
+names.
+/t
+"아, 너
+ 어서 해봐요,
+ Cal II in :
+ 다시 말해, 아빠!
+ 당신은 aaaaalways입니다
+ 자신이 다릅니다
+ 이름. 
+/e
+
+/s
+"Hey, gimme a pi
+/t
+"이봐, pi 
+/e
+
+/s
+"Hey, gimme a piggy-back ride!"
+/t
+"이봐, 돼지가 돼지를 타!" 
+/e
+
+/s
+"Sure, a piggy-back ride.
+That' I
+/t
+"물론 돼지가 돼지를 타십시오.
+ 그게 '나 
+/e
+
+/s
+"Sure, a piggy-back ride.
+That' II be a hundred thousand G."
+/t
+"물론 돼지가 돼지를 타십시오.
+ 그게 'Ii Ii는 10 만 G입니다. " 
+/e
+
+/s
+"...Big dummy!"
+/t
+"... 큰 더미!" 
+/e
+
+/s
+Snap Shot
+Translate
+https://blog.n•ver.com.tkilikimno
+/t
+스냅 샷
+ 번역하다
+ https : //blog.n•ver.com.tkilikimno 
+/e
+
+/s
+*UTUG:
+(Jamsu)
+/t
+*utug :
+ (Jamsu) 
+/e
+
+/s
+*UnjG1
+4)) a (Jamsu)
+/t
+*UNJG1
+ 4)) a (jamsu) 
+/e
+
+/s
+*UNGI
+/t
+*UNGI 
+/e
+
+/s
+Roblox
+3:00
+3:01
+/t
+로블록스
+ 3:00
+ 3:01 
+/e
+
+/s
+3:00
+3:01
+/t
+3:00
+ 3:01 
+/e
+
+/s
+3:00
+3:01
+e 2101
+/t
+3:00
+ 3:01
+ E 2101 
+/e
+
+/s
+E ego e
+3:01
+æ01 #401
+/t
+e 자아 e
+ 3:01
+ Æ01 #401 
+/e
+
+/s
+3:00
+3:01
+æ17
+*PIZ
+| 24
+/t
+3:00
+ 3:01
+ Æ17
+ *피즈
+ |  24 
+/e
+
+/s
+cc  OFE71
+3:00
+3:01
+E 01
+/t
+CC OFE71
+ 3:00
+ 3:01
+ e 01 
+/e
+
+/s
+E ego e
+E 3:01
+21 71
+/t
+e 자아 e
+ E 3:01
+ 21 71 
+/e
+
+/s
+3:00
+3:01
+æ17
+*PIZ
+| 24
+g 01
+/t
+3:00
+ 3:01
+ Æ17
+ *피즈
+ |  24
+ G 01 
+/e
+
+/s
+3:00
+3:01
+2171
+/t
+3:00
+ 3:01
+ 2171 
+/e
+
+/s
+3:00
+3:01
+æ17
+C2171a
+/t
+3:00
+ 3:01
+ Æ17
+ C2171A 
+/e
+
+/s
+3:00
+3:01
+æ17
+24
+g 01
+/t
+3:00
+ 3:01
+ Æ17
+ 24
+ G 01 
+/e
+
+/s
+3:00
+3:01
+æ17
+/t
+3:00
+ 3:01
+ Æ17 
+/e
+
+/s
+3:00
+/t
+3:00 
+/e
+
+/s
+3:00
+3:01
+#21710
+E 01
+Roblox
+/t
+3:00
+ 3:01
+ #21710
+ e 01
+ 로블록스 
+/e
+
+/s
+2101
+3:00
+3:01
+/t
+2101
+ 3:00
+ 3:01 
+/e
+
+/s
+3:00
+3:01
+o
+/t
+3:00
+ 3:01
+ 영형 
+/e
+
+/s
+3:01
+/t
+3:01 
+/e
+
+/s
+cc  OHE I
+/t
+CC OHE I 
+/e
+
+/s
+C OHE I
+a *7--102
+/t
+c ohe i
+ A *7-102 
+/e
+
+/s
+cc  OHE I
+a *7--102
+/t
+CC OHE I
+ A *7-102 
+/e
+
+/s
+OHE 1
+a *7--102
+/t
+OHE 1
+ A *7-102 
+/e
+
+/s
+a L/C-J2Å
+/t
+L/C-J2Å 
+/e
+
+/s
+cc  etL-*UCl_
+OH E 1
+/t
+cc etl-*ucl_
+ 오 E 1 
+/e
+
+/s
+C OHE I
+/t
+c ohe i 
+/e
+
+/s
+cc  etL-Rl_gq_
+a L/C-J2Å
+OH E 1
+/t
+CC ETL-RL_GQ_
+ L/C-J2Å
+ 오 E 1 
+/e
+
+/s
+OHE 1
+/t
+OHE 1 
+/e
+
+/s
+OHE 1
+a L/C12Å
+/t
+OHE 1
+ A L/C12Å 
+/e
+
+/s
+C OHE I
+a *7-102
+/t
+c ohe i
+ A *7-102 
+/e
+
+/s
+38,590
+18,585
+/t
+38,590
+ 18,585 
+/e
+
+/s
+"See? We' re here.
+And remember, call me Leo here.
+/t
+"보세요? 우리는 여기 있습니다.
+ 그리고 여기 저를 여기 레오라고 불러주세요. 
+/e
+
+/s
+"Ehh
+/t
+"EHH 
+/e
+
+/s
+itr
+/t
+itr 
+/e
+
+/s
+Leo
+Ef ina
+Equ ip
+Save
+Load
+5.1
+/t
+사자 별자리
+ ef ina
+ equ ip
+ 구하다
+ 짐
+ 5.1 
+/e
+
+/s
+Ef ina
+Leo
+Equ ip
+Save
+Load
+IO
+1
+/t
+ef ina
+ 사자 별자리
+ equ ip
+ 구하다
+ 짐
+ io
+ 1 
+/e
+
+/s
+Ef ina
+Leo
+Equ ip
+Save
+Load
+IO
+/t
+ef ina
+ 사자 별자리
+ equ ip
+ 구하다
+ 짐
+ io 
+/e
+
+/s
+r It
+/t
+r 
+/e
+
+/s
+II  tem
+Ewi
+Save
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ 에위
+ 구하다
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+Leo
+IOClfli,e
+II  tem
+Evi
+Save
+Load
+/t
+사자 별자리
+ ioclfli, e
+ II 템
+ 에비
+ 구하다
+ 짐 
+/e
+
+/s
+Tru
+12
+Grit
+5
+/t
+트루
+ 12
+ 모래
+ 5 
+/e
+
+/s
+Leo
+IHP—IOO
+Liar
+IIIEaponZ------
++1-lneql-l ip+
+Body Long Red Coat
+0 iamnd Ornarrents
+/t
+사자 별자리
+ IHP — IOO
+ 거짓말 쟁이
+ iiieaponz ------
+ +1-LNEQL-L IP+
+ 몸이 긴 빨간 코트
+ 0 iamnd ornarrents 
+/e
+
+/s
+Leo
+IHP—IOO
+Liar
+illEaponZ------
++1-lneql-l ip+
+Body Long Red Coat
+0 iamnd Ornarrents
+/t
+사자 별자리
+ IHP — IOO
+ 거짓말 쟁이
+ Illeaponz ------
+ +1-LNEQL-L IP+
+ 몸이 긴 빨간 코트
+ 0 iamnd ornarrents 
+/e
+
+/s
+Leo
+Liar
+illEaponZ------
++1-lneql-l ip+
+Body Long Red Coat
+0 iamnd Ornarrents
+/t
+사자 별자리
+ 거짓말 쟁이
+ Illeaponz ------
+ +1-LNEQL-L IP+
+ 몸이 긴 빨간 코트
+ 0 iamnd ornarrents 
+/e
+
+/s
+Leo
+Liar
+IIIEaponZ------
++1-lneql-l ip+
+Body Long Red Coat
+0 iamnd Ornarrents
+/t
+사자 별자리
+ 거짓말 쟁이
+ iiieaponz ------
+ +1-LNEQL-L IP+
+ 몸이 긴 빨간 코트
+ 0 iamnd ornarrents 
+/e
+
+/s
+Leo
+Liar
++1-lneql-l ip+
+Long Red Coat
+0 iamnd Ornarrents
+Accl
+/t
+사자 별자리
+ 거짓말 쟁이
+ +1-LNEQL-L IP+
+ 긴 빨간 코트
+ 0 iamnd ornarrents
+ Accl 
+/e
+
+/s
+Long Red Coat
+Body
+O iamnd Ornarrents
+/t
+긴 빨간 코트
+ 몸
+ o iamnd ornarrents 
+/e
+
+/s
+II  tem
+Save
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ 구하다
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+em
+ad
+Leo
+Ef ina
+/t
+여자 이름
+ 광고
+ 사자 별자리
+ ef ina 
+/e
+
+/s
+. So,
+what ' re
+/t
+.  그래서,
+ 뭐야 
+/e
+
+/s
+. So,
+what' re we doing now?"
+/t
+.  그래서,
+ '우리가 지금 무엇을하고 있습니까? " 
+/e
+
+/s
+"There's an informant here,
+so we' re gonna sell the info
+we zot
+/t
+"여기에 정보원이 있습니다.
+ 그래서 우리는 정보를 판매 할 것입니다
+ 우리는 zot 
+/e
+
+/s
+"There's an informant here,
+so we' re gonna sell the info
+we zot at the last town.
+/t
+"여기에 정보원이 있습니다.
+ 그래서 우리는 정보를 판매 할 것입니다
+ 우리는 마지막 마을에서 열광합니다. 
+/e
+
+/s
+"And this town s
+/t
+"그리고이 마을 s 
+/e
+
+/s
+"And this town seems to have
+quite a bit to gleam, itself
+So we'll look into that."
+/t
+"그리고이 도시는 가지고있는 것 같습니다
+ 그 자체로 반짝이는 것입니다
+ 그래서 우리는 그것을 조사 할 것입니다. " 
+/e
+
+/s
+"And then go sell that info?"
+/t
+"그럼 그 정보를 팔아?" 
+/e
+
+/s
+"Yeah.
+Also, you shut YOUr trap.
+/t
+"응.
+ 또한, 당신은 당신의 함정을 닫았습니다. 
+/e
+
+/s
+"Clkaaay!"
+/t
+"Clkaaay!" 
+/e
+
+/s
+"R i sht
+. Fi rst,
+p II  ace
+to
+stay.
+/t
+"r i sht
+ .  첫 번째,
+ P II 에이스
+ 에게
+ 머무르다. 
+/e
+
+/s
+"Right ..
+Fi rst, a place
+Let 's
+try and find some
+to stay.
+peop II  e.
+/t
+"오른쪽 ..
+ 첫 번째, 장소
+ 하자
+ 일부를 찾아보십시오
+ 머물러.
+ PEOP II e. 
+/e
+
+/s
+Nothing's inside.
+/t
+안에 아무것도 없습니다. 
+/e
+
+/s
+Leo
+1.
+Ef ina
+/t
+사자 별자리
+ 1.
+ ef ina 
+/e
+
+/s
+Ef ina
+em
+Equ ip
+Save
+Load
+Leo
+LHP—--lOOfJW
+1
+/t
+ef ina
+ 여자 이름
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ LHP —- loofjw
+ 1 
+/e
+
+/s
+II  tem
+Equ ip
+ave
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ equ ip
+ Ave
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+No data
+*Osta4
+/t
+데이터가 없습니다
+ *OSTA4 
+/e
+
+/s
++ Choose a slot to save in +
+*Oats 1
+0:04
+/t
++ +에 저장할 슬롯을 선택하십시오
+ *귀리 1
+ 0:04 
+/e
+
+/s
+*tlata4
+No data
+No data
+/t
+*tlata4
+ 데이터가 없습니다
+ 데이터가 없습니다 
+/e
+
+/s
+*Oats 1
+0:07
++ Choose a slot to save
+i:
+/t
+*귀리 1
+ 0:07
+ + 저장할 슬롯을 선택하십시오
+ 나: 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ equ ip
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+A whole lot of different books.
+/t
+많은 다른 책들. 
+/e
+
+/s
+w.
+/t
+w. 
+/e
+
+/s
+"Hm? Huh? Why are you here?"
+/t
+"hm? 허? 왜 여기있어?" 
+/e
+
+/s
+"What's it matter to
+Why are you here?"
+you?
+/t
+"무슨 일이야
+ 당신은 왜 여기에 있습니까? "
+ 너? 
+/e
+
+/s
+"Just rest ing my feathers. I'mI'm  ti
+/t
+"그냥 내 깃털을 쉬고 있습니다. 나는 ti입니다 
+/e
+
+/s
+"Just rest ing my feathers. I'mI'm  ti red.
+I'll be fishing for info later."
+/t
+"그냥 내 깃털을 쉬십시오. 나는 빨간색입니다.
+ 나중에 정보를 위해 낚시 할게요. " 
+/e
+
+/s
+"Clh, right. If you find anything
+/t
+"CLH, 맞습니다. 당신이 뭔가를 찾으면 
+/e
+
+/s
+"Clh, right. If
+out about the
+tell me about
+you find anything
+town's legend,
+it, please.
+/t
+"CLH, 오른쪽
+ 에 대해
+ 말해봐
+ 당신은 무엇이든 찾을 수 있습니다
+ 마을의 전설,
+ 제발. 
+/e
+
+/s
+"You better pay up for it."
+/t
+"당신은 그것을 더 잘 지불합니다." 
+/e
+
+/s
+"What do you take me for?
+Tch
+/t
+"당신은 나를 무엇으로 데려가십니까?
+ tch 
+/e
+
+/s
+"What do you take me for?
+Tch."
+/t
+"당신은 나를 무엇으로 데려가십니까?
+ tch. " 
+/e
+
+/s
+The shelves are messi ly packed with things
+/t
+선반에는 사물로 가득 차 있습니다 
+/e
+
+/s
+The shelves are
+/t
+선반이 있습니다 
+/e
+
+/s
+...Nothing of any real interest.
+/t
+... 진정한 관심이 없습니다. 
+/e
+
+/s
+Got Serrated Knife and Small Maca
+/t
+톱니 모양의 나이프와 작은 마카를 얻었습니다 
+/e
+
+/s
+Got Serrated Knife and Smal II  Macaron.
+/t
+톱니 모양의 나이프와 Smal II 마카롱을 얻었습니다. 
+/e
+
+/s
+Messy.
+/t
+지저분한. 
+/e
+
+/s
+II  tem
+Equ ip
+Save
+Load
+Leo
+Ef ina
+/t
+II 템
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ ef ina 
+/e
+
+/s
+Ef ina
+em
+Equ ip
+Save
+Load
+Leo
+IO
+/t
+ef ina
+ 여자 이름
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ io 
+/e
+
+/s
+II  tem
+wi
+Save
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ WI
+ 구하다
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+Ef ina
+err
+Equ ip
+Save
+Load
+Leo
+IO
+/t
+ef ina
+ 오류
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ io 
+/e
+
+/s
+II hizr-:arr-ln
+L iar
+/t
+II hizr- : arr-ln
+ l iar 
+/e
+
+/s
+Serrated Kn
+1
+1
+5.1
+/t
+톱니 모양의 KN
+ 1
+ 1
+ 5.1 
+/e
+
+/s
+Serrated
+1
+1
+5.1
+/t
+톱니 모양
+ 1
+ 1
+ 5.1 
+/e
+
+/s
+II hEr-:arr-Irl
+L iar
+/t
+ii her- : arr-irl
+ l iar 
+/e
+
+/s
+L iar
+1
+5.1
+/t
+l iar
+ 1
+ 5.1 
+/e
+
+/s
+L iar
+1
+1
+5.1
+/t
+l iar
+ 1
+ 1
+ 5.1 
+/e
+
+/s
+L iar
+/t
+l iar 
+/e
+
+/s
+Serrated Kn
+L iar
+1
+1
+5.1
+/t
+톱니 모양의 KN
+ l iar
+ 1
+ 1
+ 5.1 
+/e
+
+/s
+Serrated Kn
+L iar
+/t
+톱니 모양의 KN
+ l iar 
+/e
+
+/s
+II  tem
+Equ ip
+Save
+Load
+Leo
+Ef ina
+5.1
+/t
+II 템
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ ef ina
+ 5.1 
+/e
+
+/s
+Ef ina
+II  tem
+Equ ip
+Load
+Leo
+IO
+/t
+ef ina
+ II 템
+ equ ip
+ 짐
+ 사자 별자리
+ io 
+/e
+
+/s
+Ef ina
+II  tem
+Equ ip
+Save
+Load
+Leo
+i"
+10
+/t
+ef ina
+ II 템
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ 나"
+ 10 
+/e
+
+/s
+Ef ina
+II  tem
+Equ ip
+Save
+Load
+Leo
+10
+/t
+ef ina
+ II 템
+ equ ip
+ 구하다
+ 짐
+ 사자 별자리
+ 10 
+/e
+
+/s
+a (Jamsu)
+2025B
+/t
+A (Jamsu)
+ 2025B 
+/e
+
+/s
+II  tem
+Equ ip
+Leo
+Ef ina
+up
+G
+up
+O
+/t
+II 템
+ equ ip
+ 사자 별자리
+ ef ina
+ 위로
+ G
+ 위로
+ 영형 
+/e
+
+/s
+3:00
+O
+3:01
+/t
+3:00
+ 영형
+ 3:01 
+/e
+
+/s
+2025B II  æ
+2:39
+O
+(3
+/t
+2025B II Æ
+ 2:39
+ 영형
+ (3 
+/e
+
+/s
+II  tem
+Equ ip
+Leo
+up
+Ef ina
+G
+up
+O
+/t
+II 템
+ equ ip
+ 사자 별자리
+ 위로
+ ef ina
+ G
+ 위로
+ 영형 
+/e
+
+/s
+3:00
+3:01
+æ17
+217 |
+/Ææ124
+/t
+3:00
+ 3:01
+ Æ17
+ 217 |
+ /Ææ124 
+/e
+
+/s
+II  tem
+Equ ip
+Leo
+Ef ina
+up
+up
+O
+mm
+G
+/t
+II 템
+ equ ip
+ 사자 별자리
+ ef ina
+ 위로
+ 위로
+ 영형
+ mm
+ G 
+/e
+
+/s
+239
+3:00
+/t
+239
+ 3:00 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+Leo
+Ef ina
+/t
+II 템
+ equ ip
+ 짐
+ 사자 별자리
+ ef ina 
+/e
+
+/s
+010111 xw - captue_Original.bmp
+010111 - captue_Result.bmp
+614
+s HANA) 2.
+(SHANÅ)2.
+71
+/t
+010111 XW -CAPTUE_ORIGINAL.BMP
+ 010111 -Captue_result.bmp
+ 614
+ SHANA) 2.
+ (Shanå) 2.
+ 71 
+/e
+
+/s
+010111 xw - captue_Original.bmp
+II  tem
+010111 - captue_Result.bmp
+Equ ip
+614
+Load
+71
+/t
+010111 XW -CAPTUE_ORIGINAL.BMP
+ II 템
+ 010111 -Captue_result.bmp
+ equ ip
+ 614
+ 짐
+ 71 
+/e
+
+/s
+010111
+• RGBÆ
+HSVÆ
+s
+v
+127
+/t
+010111
+ • rgbæ
+ hsvæ
+ 에스
+ 다섯
+ 127 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+71 E
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ 71 e 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+71 e
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ 71 e 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+DB - *2-1971
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ DB- *2-1971 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+01
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ 01 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+DeepL
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ Deepl 
+/e
+
+/s
+II  tem
+Equ ip
+Load
+OCR
+• OCR
+DeepLX
+/t
+II 템
+ equ ip
+ 짐
+ OCR
+ • OCR
+ Deeplx 
+/e
+
+/s
+not ready
+/t
+준비되지 않았습니다 
+/e
+
